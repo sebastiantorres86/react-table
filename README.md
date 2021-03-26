@@ -10,11 +10,11 @@ Usaremos [Material UI](https://material-ui.com/) porque es el framework de inter
 
 ¡Aquí está nuestro plan para hoy!
 
-- [Prepare los datos]() en la base de datos: ¡muchos datos!
-- [Inicie una API]() para trabajar con esos datos, de forma rápida y sencilla
-- [Cree una aplicación]() con React y Material UI
-- [Construye una tabla de datos básica]()
-- [Amplíe la tabla de datos]() con varias funciones, paso a paso
+- [Prepare los datos](#Prepare-los-datos-en-la-base-de-datos) en la base de datos: ¡muchos datos!
+- [Inicie una API](#Lanzar-una-API-para-trabajar-con-datos) para trabajar con esos datos, de forma rápida y sencilla
+- [Cree una aplicación](#Crea-una-aplicacion-con-React-⚛️) con React y Material UI
+- [Construye una tabla de datos básica](#Construye-una-tabla-de-datos-basica)
+- [Amplíe la tabla de datos](#Formato-de-celda-personalizado) con varias funciones, paso a paso
 
 ¿Suena bien? ¡Vamos!
 
@@ -134,7 +134,7 @@ La pestaña "Create" es un lugar donde puede crear gráficos de muestra utilizan
 
 Está bien, estamos listos. La API está lista, ahora vamos a...
 
-## Crea una aplicación con React ⚛️
+## Crea una aplicacion con React ⚛️
 
 ¡Grandes noticias!
 
@@ -172,7 +172,7 @@ $ npm install --save react-perfect-scrollbar @material-ui/pickers
 
 Entonces, ahora estamos listos para...
 
-## Construye una tabla de datos básica
+## Construye una tabla de datos basica
 
 Es genial tener muchos datos en la tabla, ¿verdad? Entonces, vayamos a buscarlos a través de la API.
 
